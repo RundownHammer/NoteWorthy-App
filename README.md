@@ -32,30 +32,30 @@ Ensure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/your-username/noteworthy.git
+   ```
 
 2. **Navigate to the project directory:**
 
-  ```bash
+   ```bash
    cd noteworthy
-```
+  
 
 3. **Install dependencies:**
 
-  ```bash
+   ```bash
    npm i
-```
+
 4. **Start the development server:**
    ```bash
    npm run dev
-   ```
+   
 5. **Open your browser and navigate to:**
    ```
    http://localhost:5173
-   ```
 
 ### Folder Structure
 
-```bash
+   ```bash
    noteworthy/
    ├── src/              # Main source code for the React app
    ├── public/           # Public assets (e.g., images, HTML)
