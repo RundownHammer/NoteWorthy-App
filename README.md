@@ -9,6 +9,13 @@ NoteWorthy is a simple and intuitive web application that allows users to create
 - Fully responsive design for use on any device.
 - Fast, real-time updates as you manage your notes.
 
+## Screenshots of the app
+
+![Screenshot 2024-09-28 163156](https://github.com/user-attachments/assets/01428060-a78b-4172-bac8-091788693637)
+
+![Screenshot 2024-09-28 163026](https://github.com/user-attachments/assets/384263de-34a1-41ef-a1d3-1fed3fef4fea)
+
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
