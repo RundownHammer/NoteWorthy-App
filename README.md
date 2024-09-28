@@ -36,13 +36,13 @@ Ensure you have the following installed on your system:
 2. **Navigate to the project directory:**
 
   ```bash
-  cd noteworthy
+   cd noteworthy
 ```
 
 3. **Install dependencies:**
 
   ```bash
-  npm i
+   npm i
 ```
 4. **Start the development server:**
    ```bash
@@ -56,12 +56,12 @@ Ensure you have the following installed on your system:
 ### Folder Structure
 
 ```bash
-noteworthy/
-├── src/              # Main source code for the React app
-├── public/           # Public assets (e.g., images, HTML)
-├── package.json      # Project dependencies and scripts
-├── vite.config.js    # Vite configuration
-└── README.md         # Project documentation
+   noteworthy/
+   ├── src/              # Main source code for the React app
+   ├── public/           # Public assets (e.g., images, HTML)
+   ├── package.json      # Project dependencies and scripts
+   ├── vite.config.js    # Vite configuration
+   └── README.md         # Project documentation
 ```
 
 
